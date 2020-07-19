@@ -61,4 +61,4 @@ Hi, I'm Ajay Patil, a Web Developer and a Beginner Competitive Progranner from B
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=ajay9006&show_icons=true&hide_border=true)
+![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=code-recursion&show_icons=true&hide_border=true)
