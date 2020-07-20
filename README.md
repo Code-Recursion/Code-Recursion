@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 Hello, I'm Ajay Singh, a Web Developer and a Beginner in Competitive Programming living in Bhopal(M.P), India. I'm a pre-final year Student persuing B.Tech with Information and Technology stream currently in 5th Sem.
 
-<img align="right" width = "450px" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" />
+<img align="right" width = "305px" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" />
 
 ## What i'm doing
 
