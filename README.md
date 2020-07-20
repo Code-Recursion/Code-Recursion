@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Ajay Patil | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="https://t.me/Patil_Ajay">
+<a href="https://t.me/https://telegram.me/helloajaysingh">
 <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
