@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ## Hey 👋, I'm [Ajay!](https://code-recursion.github.io)
 
 <br/>
@@ -37,18 +38,21 @@ Here are some ideas to get you started:
 
 <br />
 
-Hello, I'm Ajay Singh, a Web Developer and a Beginner Competitive Progranner from Bhopal(M.P), India, I'm a pre-final year Student persuing B.Tech with Information and Technology stream currently in 5th Sem.
-
+Hello, I'm Ajay Singh, a Web Developer and a Beginner in Competitive Programming living in Bhopal(M.P), India. I'm a pre-final year Student persuing B.Tech with Information and Technology stream currently in 5th Sem.
 <img align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" />
-
 
 *Talking about Personal Stuffs:*
 
 - 👨🏽‍💻 I’m currently looking for an entry level position or an internship role .
-- 🌱  I’m currently learning Data Structures and Algorithms and MERN Stack Development.
+
+- 🌱  Presently learning Data Structures and Algorithms and MERN Stack Development.
+
 - 💬  Ask me about anything, I am happy to help
+
 - ⚡️  Fun-Fact: I can solve a Rubik's Cube under a minute also i can type with 60+ wpm.
+
 - 📫  How to reach me: helloajaysingh1@gmail.com
+
 - 📝  [Resume](https://docs.google.com/document/d/1H2Pn9jzwn69gUS64UjTNw5nusj92blGnAk_AJjkHveo/edit)
 
 *Languages and Tools:*
