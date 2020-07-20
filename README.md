@@ -31,17 +31,26 @@ Here are some ideas to get you started:
 <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-<a href="https://www.instagram.com/">
+<a href="https://https://www.instagram.com/_invincible_aj_">
 <img align="left" alt="Ajay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 
-<br />
+<a href="https://https://www.youtube.com/channel/UC_xFFms9bBjom4WiJn2fV1g">
+<img align="left" alt="Ajay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
+
+
+<br/>
+<br/>
+
 
 Hello, I'm Ajay Singh, a Web Developer and a Beginner in Competitive Programming living in Bhopal(M.P), India. I'm a pre-final year Student persuing B.Tech with Information and Technology stream currently in 5th Sem.
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" />
 
-*Talking about Personal Stuffs:*
+## What i'm doing
 
 - 👨🏽‍💻 I’m currently looking for an entry level position or an internship role .
 
