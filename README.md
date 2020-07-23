@@ -56,9 +56,9 @@ Hello, I'm Ajay Singh, a Web Developer and a Beginner in Competitive Programming
 
 - 🌱  Presently learning Data Structures and Algorithms and MERN Stack Development.
 
-- 💬  Ask me about anything, I am happy to help
+- 💬  Ask me about anything, I'm always there to help.
 
-- ⚡️  Fun-Fact: I can solve a Rubik's Cube under a minute also i can type with the speed of 60+ wpm.
+- ⚡️  Fun and Interesting Facts : I can solve a Rubik's Cube under a minute also i can type with the speed of 60+ wpm.
 
 - 📫  How to reach me: helloajaysingh1@gmail.com
 
