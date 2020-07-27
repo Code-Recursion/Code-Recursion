@@ -45,26 +45,25 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-
 Hello, I'm Ajay Singh, a Web Developer and a Beginner in Competitive Programming living in Bhopal(M.P), India. I'm a pre-final year Student persuing B.Tech with Information and Technology stream currently in 5th Sem.
 
 <img align="right" width = "305px" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" />
 
 ## What i'm doing
 
-- 💻 I’m currently looking for an entry level position or an internship role .
+- I’m currently looking for an entry level position or an internship role .
 
-- 🌱  Presently learning Data Structures and Algorithms and MERN Stack Development.
+- Presently learning Data Structures and Algorithms and MERN Stack Development.
 
-- 💬  Ask me about anything, I'm always there to help.
+- 💬 Ask me about anything, I'm always there to help.
 
-- ⚡️  Fun and Interesting Facts : I can solve a Rubik's Cube under a minute also i can type with the speed of 60+ wpm.
+- Fun and Interesting Facts : I can solve a Rubik's Cube under a minute also i can type with the speed of 60+ wpm.
 
-- 📫  How to reach me: helloajaysingh1@gmail.com
+- How to reach me: helloajaysingh1@gmail.com
 
 - 📝  [Resume](https://docs.google.com/document/d/1H2Pn9jzwn69gUS64UjTNw5nusj92blGnAk_AJjkHveo/edit)
 
-### Languages and Tools:
+### Languages and Tools i use:
 
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
@@ -75,6 +74,5 @@ Hello, I'm Ajay Singh, a Web Developer and a Beginner in Competitive Programming
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://www.php.net//images/logos/php-med-trans-light.gif"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 ![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=code-recursion&show_icons=true&hide_border=true)
