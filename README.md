@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Hey 👋, I'm [Ajay!](https://code-recursion.github.io) &nbsp; &nbsp;![](https://komarev.com/ghpvc/?username=Code-Recursion)
+## Hey 👋, I'm [Ajay!](https://code-recursion.github.io) &nbsp; &nbsp;![](https://komarev.com/ghpvc/?username=Code-Recursion&color=blue)
 
 <br/>
 
