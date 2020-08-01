@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Hey 👋, I'm [Ajay!](https://code-recursion.github.io)
+## Hey 👋, I'm [Ajay!](https://code-recursion.github.io) &nbsp; &nbsp;![](https://komarev.com/ghpvc/?username=Code-Recursion)
 
 <br/>
 
@@ -75,5 +75,5 @@ Hello, I'm Ajay Singh, a Web Developer and a Beginner in Competitive Programming
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://www.php.net//images/logos/php-med-trans-light.gif"></code>
 </br>
-![](https://komarev.com/ghpvc/?username=Code-Recursion)
+
 ![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=code-recursion&show_icons=true&hide_border=true)
