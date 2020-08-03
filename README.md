@@ -45,19 +45,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-Hello, I'm Ajay Singh, a Web Developer and a Beginner in Competitive Programming living in Bhopal(M.P), India. I'm a pre-final year Student persuing B.Tech with Information and Technology stream currently in 5th Sem.
-
-<img align="right" width = "305px" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" />
-
-## What i'm doing
-
-- I’m currently looking for an entry level position or an internship role .
-
-- Presently learning Data Structures and Algorithms and MERN Stack Development.
-
-- 💬 Ask me about anything, I'm always there to help.
-
-- Fun and Interesting Facts : I can solve a Rubik's Cube under a minute also i can type with the speed of 60+ wpm.
+I'm Ajay Singh, an Admiring Full Stack Web Developer and a Beginner in Competitive Programming living in India. I'm a pre-final year Student persuing B.Tech with Information and Technology stream currently graded in 5th Semester.
 
 - How to reach me: helloajaysingh1@gmail.com
 
