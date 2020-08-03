@@ -2,19 +2,6 @@
 <!--
 **Code-Recursion/Code-Recursion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ## Hey 👋, I'm [Ajay!](https://code-recursion.github.io) &nbsp; &nbsp;![](https://komarev.com/ghpvc/?username=Code-Recursion&color=blue)
 
 <br/>
@@ -47,7 +34,7 @@ Here are some ideas to get you started:
 
 I'm Ajay Singh, an Admiring Full Stack Web Developer and a Beginner in Competitive Programming living in India. I'm a pre-final year Student persuing B.Tech with Information and Technology stream currently graded in 5th Semester.
 
-- How to reach me: helloajaysingh1@gmail.com
+- Reach me here : helloajaysingh1@gmail.com
 
 - 📝  [Resume](https://docs.google.com/document/d/1H2Pn9jzwn69gUS64UjTNw5nusj92blGnAk_AJjkHveo/edit)
 
