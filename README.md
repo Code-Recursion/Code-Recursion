@@ -49,6 +49,6 @@ I'm Ajay Singh, an Admiring Full Stack Web Developer and a Beginner in Competiti
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://www.php.net//images/logos/php-med-trans-light.gif"></code>
-</br>
 
-![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=code-recursion&show_icons=true&hide_border=true)
+
+![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=code-recursion&show_icons=true)
