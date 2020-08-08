@@ -37,7 +37,7 @@
 <br/>
 <br/>
 
-I'm Ajay Singh, an Admiring Full Stack Web Developer and a Beginner in Competitive Programming living in India. I'm a pre-final year Student persuing B.Tech with Information and Technology stream currently graded in 4th Semester.
+I am an Admiring Full Stack Web Developer and a Beginner in Competitive Programming living in India. I'm a pre-final year Student persuing B.Tech with Information and Technology stream currently graded in 4th Semester.
 
 - Reach me here : helloajaysingh1@gmail.com
 
