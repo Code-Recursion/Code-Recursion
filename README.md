@@ -51,4 +51,4 @@ I'm Ajay Singh, an Admiring Full Stack Web Developer and a Beginner in Competiti
 <code><img height="30" src="https://www.php.net//images/logos/php-med-trans-light.gif"></code>
 
 
-![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=code-recursion&show_icons=true)
+
