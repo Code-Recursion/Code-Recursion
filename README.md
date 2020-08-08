@@ -2,7 +2,10 @@
 <!--
 **Code-Recursion/Code-Recursion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## Hey 👋, I'm [Ajay!](https://code-recursion.github.io) &nbsp; &nbsp;![](https://komarev.com/ghpvc/?username=Code-Recursion&color=blue)
+
+<h2 align="center">  Hey 👋, I'm <a href="https://code-recursion.github.io">Ajay</a>, a passionate web developer</h2>
+
+![](https://komarev.com/ghpvc/?username=Code-Recursion&color=blue)
 
 <br/>
 
