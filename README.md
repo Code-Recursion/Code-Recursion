@@ -55,7 +55,7 @@ I am an Admiring Full Stack Web Developer and a Beginner in Competitive Programm
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://www.php.net//images/logos/php-med-trans-light.gif"></code>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=code-recursion&count_private=true)
 
 
 
