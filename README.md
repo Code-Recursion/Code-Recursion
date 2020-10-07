@@ -37,12 +37,12 @@
 <br/>
 <br/>
 
-I am an Admiring Full Stack Web Developer and a Beginner in Competitive Programming living in India. I'm a pre-final year Student persuing B.Tech with Information and Technology stream currently graded in 5th Semester.
+I am an Admiring Full Stack Web Developer and a Beginner in Competitive Programming living in India. I'm a pre-final year Student pursuing B.Tech with Information and Technology stream currently graded in 5th Semester.
 
 - Portfolio Website : https://helloajaysingh.me
 - Reach me here : helloajaysingh1@gmail.com
 
-### Achievements and Position of Responsibilies :
+### Achievements and Position of Responsibilities :
 * Developer Student Clubs Lead at BIST, Bhopal.
 * Google Cloud Facilitator at BIST, Bhopal.
 
