@@ -42,7 +42,10 @@ I am an Admiring Full Stack Web Developer and a Beginner in Competitive Programm
 - Portfolio Website : https://helloajaysingh.me
 - Reach me here : helloajaysingh1@gmail.com
 
-- 📝  [Resume](https://docs.google.com/document/d/1H2Pn9jzwn69gUS64UjTNw5nusj92blGnAk_AJjkHveo/edit)
+### Achievements and Position of Responsibilies :
+* Developer Student Clubs Lead at BIST, Bhopal.
+* Google Cloud Facilitator at BIST, Bhopal.
+
 
 ### Languages and Tools i use:
 
