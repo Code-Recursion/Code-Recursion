@@ -40,10 +40,11 @@
 I am an Admiring Full Stack Web Developer and a Beginner in Competitive Programming living in India. I'm a pre-final year Student pursuing B.Tech with Information and Technology stream currently graded in 5th Semester.
 
 - Portfolio Website : https://helloajaysingh.me
-- Reach me here : helloajaysingh1@gmail.com
+- Reach out to me here : helloajaysingh1@gmail.com
 
 ### Achievements and Position of Responsibilities :
-* Developer Student Clubs Lead at BIST, Bhopal.
+* Google Developer Student Clubs Lead at BIST, Bhopal.
+* Microsoft Student Partner Alpha.
 * Google Cloud Facilitator at BIST, Bhopal.
 
 
@@ -57,8 +58,6 @@ I am an Admiring Full Stack Web Developer and a Beginner in Competitive Programm
 <code><img height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://www.php.net//images/logos/php-med-trans-light.gif"></code>
 
 ![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=code-recursion&count_private=true)
 
