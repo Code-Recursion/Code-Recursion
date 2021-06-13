@@ -44,7 +44,7 @@ I am an Admiring Full Stack Web Developer and a Beginner in Competitive Programm
 
 ### Achievements and Position of Responsibilities :
 * Google Developer Student Clubs Lead at BIST, Bhopal.
-* Microsoft Student Partner Alpha.
+* Microsoft Student Partner - Beta.
 * Google Cloud Facilitator at BIST, Bhopal.
 
 
