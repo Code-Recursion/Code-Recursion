@@ -37,7 +37,7 @@
 <br/>
 <br/>
 
-I am an Admiring Full Stack Web Developer and a Beginner in Competitive Programming living in India. I'm a pre-final year Student pursuing B.Tech with Information and Technology stream currently graded in 5th Semester.
+I'm a final year Student pursuing B.Tech with Information and Technology stream currently graded in 7th Semester, I am an Admiring Full Stack Web Developer and a Beginner in Competitive Programming living in India
 
 - Portfolio Website : https://helloajaysingh.me
 - Reach out to me here : helloajaysingh1@gmail.com
