@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://twitter.com/code-recursion">
-<img align="left" alt="Ajay Patil | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="Ajay's  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <a href="https://t.me/https://telegram.me/helloajaysingh">
@@ -29,17 +29,12 @@
 <img align="left" alt="Ajay's Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-<a href="https://medium.com/@helloajaysingh1/">
-<img align="left" alt="Ajay's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-
-
 <br/>
 <br/>
 
-I'm a final year Student pursuing B.Tech with Information and Technology stream currently graded in 7th Semester, I am an Admiring Full Stack Web Developer and a Beginner in Competitive Programming living in India
+I'm a final year Student pursuing B.Tech with Information and Technology stream currently graded in 8th Semester, I am an Admiring Full Stack Web Developer and a Beginner in Competitive Programming living in India
 
-- Portfolio Website : https://helloajaysingh.me
+- Portfolio Website : https://code-recursion.github.io
 - Reach out to me here : helloajaysingh1@gmail.com
 
 ### Achievements and Position of Responsibilities :
