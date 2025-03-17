@@ -34,7 +34,7 @@
 
 I'm a final year Student pursuing B.Tech with Information and Technology stream currently graded in 8th Semester, I am an Admiring Full Stack Web Developer and a Beginner in Competitive Programming living in India
 
-- Portfolio Website :[ https://code-recursion.github.io](https://ajay-singh.vercel.app/)
+- Portfolio Website :[https://ajay-singh.vercel.app/](https://ajay-singh.vercel.app/)
 - Reach out to me here : helloajay.pro@gmail.com
 
 ### Achievements and Position of Responsibilities :
